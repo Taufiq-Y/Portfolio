@@ -42,28 +42,29 @@ function Contact() {
               <h1 className="text-2xl font-semibold">Wanna Hire..??</h1>
               <input
                 type="text"
-                placeholder="Name"
+                placeholder="Your Name"
                 required
                 className="w-full border-2 border-gray-400 rounded p-1 shadow-lg mt-5"
                 name="name"
               />
               <input
-                type="text"
-                placeholder="Phone Number"
+                type="number"
+                placeholder="Your Phone Number"
                 required
                 className="w-full border-2 border-gray-400 rounded p-1 shadow-lg mt-5"
                 name="phonenumber"
               />
               <input
-                type="text"
-                placeholder="Email"
+                type="email"
+                placeholder="Your Email"
                 required
                 className="w-full border-2 border-gray-400 rounded p-1 shadow-lg mt-5"
                 name="email"
               />
               <textarea
                 type="text"
-                placeholder="Message"
+                placeholder="Your Message Here..."
+                required
                 className="w-full border-2 border-gray-400 rounded p-1 shadow-lg mt-5"
                 name="message"
               />
