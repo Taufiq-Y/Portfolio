@@ -30,8 +30,8 @@ function Projects() {
           </h1>
         </div>
         <div className="font-semibold text-center bg-red-500 mx-20 p-20 text-white rounded-tl-full rounded-br-full md:mx-5">
-          <h1 className="text-7xl md:text-3xl"data-aos='slide-left'>THE GAME IS...</h1>
-          <h1 className="text-7xl md:text-3xl"data-aos='slide-right'>CONSISTANCY</h1>
+          <h1 className="text-7xl md:text-2xl"data-aos='slide-left'>THE GAME IS...</h1>
+          <h1 className="text-7xl md:text-2xl"data-aos='slide-right'>CONSISTANCY</h1>
         </div>
       </div>
       <div className="grid mt-20 md:grid-cols-1 grid-cols-3 items-center justify-center gap-12 mx-20 md:mx-5">

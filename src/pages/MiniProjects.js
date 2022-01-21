@@ -50,8 +50,8 @@ function MiniProjects() {
         </h1>
       </div>
       <div className="font-semibold text-center bg-gray-500 m-20 p-20 text-white rounded-tl-full rounded-br-full md:mx-5">
-        <h1 className="text-7xl md:text-3xl" data-aos='slide-up'>THE SMALL THINGS CREATE...</h1>
-        <h1 className="text-7xl md:text-3xl"data-aos='slide-down'>MISTAKES'S</h1>
+        <h1 className="text-7xl md:text-2xl" data-aos='slide-up'>THE SMALL THINGS CREATE...</h1>
+        <h1 className="text-7xl md:text-2xl"data-aos='slide-down'>MISTAKES'S</h1>
       </div>
       <div className="grid mt-20 md:grid-cols-1 grid-cols-3 items-center justify-center gap-12 mx-20 md:mx-5">
         {miniData.map((miniproj) => {
