@@ -1,12 +1,12 @@
 const miniData = [
     {
-      title: "React Todoss with CRUD",
+      title: "Todos with CRUD",
       image: "todoss.png",  
       link: "https://react-todoss.netlify.app/",
       repo: "https://github.com/Taufiq-Y/React-Todoss"
     },
     {
-      title: "Compelete Weather Info",
+      title: "Weather Info",
       image: "weather.png",  
       link: "https://reactjs-weather-info.netlify.app/",
       repo: "https://github.com/Taufiq-Y/React-Weather-App"
@@ -25,14 +25,14 @@ const miniData = [
       repo: "https://github.com/Taufiq-Y/price-react"
     },
     {
-      title: "React Expense-Tracker",
+      title: "Expense-Tracker",
       image: "expense.png",
   
       link: "https://react-expense-tracker-git.netlify.app/",
       repo: "https://github.com/Taufiq-Y/React-expense-tracker"
     },
     {
-      title: "React- Calculator-iphone",
+      title: "Calculator-iOS",
       image: "calc.png",
   
       link: "https://react-calculator-iphone-js.netlify.app/",
