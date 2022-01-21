@@ -1,6 +1,6 @@
 const miniData = [
     {
-      title: "Todos with CRUD",
+      title: "Todos-CRUD",
       image: "todoss.png",  
       link: "https://react-todoss.netlify.app/",
       repo: "https://github.com/Taufiq-Y/React-Todoss"
