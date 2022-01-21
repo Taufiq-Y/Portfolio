@@ -24,8 +24,8 @@ const projectsData = [
       repo: "https://github.com/Taufiq-Y/Muhammed-s-Cars"
     },
     {
-      title: "ShopIT",
-      image: "./air.svg",
+      title: "Building",
+      image: "./def.png",
       description:
         "An ecommerce application developed using react , node , redux and mongodb",
       link: "/",
@@ -39,8 +39,8 @@ const projectsData = [
       repo: "https://github.com/Taufiq-Y/Mentor-Assigning"
     },
     {
-      title: "SHEYCARS",
-      image: "./air.svg",
+      title: "Building",
+      image: "./def.png",
       description:
         "An ecommerce application developed using react , node , redux and mongodb",
       link: "/",
