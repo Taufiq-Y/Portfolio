@@ -24,7 +24,7 @@ function Home() {
     <Layout>
       <div>
         <div className="h-screen bg-theme">
-          <div className="grid md:grid-cols-1 grid-cols-2 h-screen items-center border-4 md:border-0 mx-10 z-10 bg-theme border-white transform rotate-12 md-rotate-0">
+          <div className="grid md:grid-cols-1 grid-cols-2 h-screen items-center border-4 md:border-0 mx-10 z-10 bg-theme border-white transform rotate-12 md:rotate-0">
             <div className="h-1/2"data-aos='zoom-in-up'>
               <lottie-player
                 src="https://assets4.lottiefiles.com/packages/lf20_kyu7xb1v.json"
