@@ -200,7 +200,7 @@ function Home() {
             <div className='absolute inset-0 flex flex-col items-center justify-center'>
                 <h1 className='text-2xl font-bold'>Hello World,
                 <hr />
-                <pre className='text-xl my-5 font-mont font-semibold'>
+                <pre className='text-xl md:text-sm my-5 font-mont font-semibold'>
                     {JSON.stringify({
                         Name: 'Muhammed Taufiq Y',
                         Age: 'Unknown',
