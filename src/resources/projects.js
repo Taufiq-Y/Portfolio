@@ -24,11 +24,12 @@ const projectsData = [
       repo: "https://github.com/Taufiq-Y/Muhammed-s-Cars"
     },
     {
-      title: "Building",
-      image: "./def.png",
+      title: "Krypt",
+      image: "./krypt.png",
       description:
         "An ecommerce application developed using react , node , redux and mongodb",
-      link: "/",
+      link: "https://cryptocurrency-web30-taufiq.netlify.app/",
+      repo: "https://github.com/Taufiq-Y/Blockchain_Web3.0"
     },
     {
       title: "Mentor Assign",
